@@ -1,1 +1,1 @@
-# Simul-tor-kari-ry-F1
+# Simulator-kariery-F1
